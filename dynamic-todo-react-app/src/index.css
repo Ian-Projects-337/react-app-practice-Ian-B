@@ -1,1 +1,13 @@
+.ProfileCard {
+  border: 2px solid;
+  padding: 20px;
+  text-align: center;
+  list-style: none;
 
+}
+
+.profile-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
